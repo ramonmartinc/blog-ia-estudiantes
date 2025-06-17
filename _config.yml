@@ -1,4 +1,4 @@
-title: Blog IA y Estudiantes
+title: IA y Estudiantes
 email: rmartincalderer@gmail.com
 description: >- 
   Explora cómo la inteligencia artificial transforma la forma en que los estudiantes aprenden, estudian y se preparan para el futuro.
@@ -13,3 +13,4 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+permalink: /:title/
